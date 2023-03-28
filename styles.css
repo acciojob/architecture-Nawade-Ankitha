@@ -3,3 +3,12 @@ table,td{
 	border: 1px solid black;
 	border-collapse:collapse;
 }
+.imagecontainer{
+	width:1100px;
+}
+#img{
+	width:200px;
+}
+#on{
+	width:600px;
+}
